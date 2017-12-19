@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8563AEE81FE8E14E00748851"
-               BuildableName = "myProject.app"
-               BlueprintName = "myProject"
-               ReferencedContainer = "container:myProject.xcodeproj">
+               BlueprintIdentifier = "85E446EF1FE918970055C1A6"
+               BuildableName = "myProject001.app"
+               BlueprintName = "myProject001"
+               ReferencedContainer = "container:myProject001.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8563AEE81FE8E14E00748851"
-            BuildableName = "myProject.app"
-            BlueprintName = "myProject"
-            ReferencedContainer = "container:myProject.xcodeproj">
+            BlueprintIdentifier = "85E446EF1FE918970055C1A6"
+            BuildableName = "myProject001.app"
+            BlueprintName = "myProject001"
+            ReferencedContainer = "container:myProject001.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8563AEE81FE8E14E00748851"
-            BuildableName = "myProject.app"
-            BlueprintName = "myProject"
-            ReferencedContainer = "container:myProject.xcodeproj">
+            BlueprintIdentifier = "85E446EF1FE918970055C1A6"
+            BuildableName = "myProject001.app"
+            BlueprintName = "myProject001"
+            ReferencedContainer = "container:myProject001.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8563AEE81FE8E14E00748851"
-            BuildableName = "myProject.app"
-            BlueprintName = "myProject"
-            ReferencedContainer = "container:myProject.xcodeproj">
+            BlueprintIdentifier = "85E446EF1FE918970055C1A6"
+            BuildableName = "myProject001.app"
+            BlueprintName = "myProject001"
+            ReferencedContainer = "container:myProject001.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
