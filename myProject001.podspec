@@ -1,7 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "myProject001" # 项目名称
   s.version      = "1.0.0"        # 版本号 与 你仓库的 标签号 对应
-  s.license      = "MIT"          # 开源证书
+  #s.license      = "MIT"          # 开源证书
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   s.summary      = "test project" # 项目简介
 
   s.homepage     = "https://github.com/cowboy007/1219" # 你的主页

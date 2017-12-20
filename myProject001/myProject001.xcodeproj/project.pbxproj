@@ -137,6 +137,7 @@
 				TargetAttributes = {
 					85E446EF1FE918970055C1A6 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 77DS4PNEBQ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -348,6 +349,7 @@
 			baseConfigurationReference = E552689D57B2AD1E018A7589 /* Pods-myProject001.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 77DS4PNEBQ;
 				INFOPLIST_FILE = myProject001/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stat.myProject001.myProject001;
@@ -360,6 +362,7 @@
 			baseConfigurationReference = E6E13188F19811291AA072AD /* Pods-myProject001.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 77DS4PNEBQ;
 				INFOPLIST_FILE = myProject001/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stat.myProject001.myProject001;
@@ -386,6 +389,7 @@
 				85E447091FE918980055C1A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
